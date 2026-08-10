@@ -1,1 +1,15 @@
-
+{
+    "channels": [
+        "customk",
+        "tckgg",
+        "keithlocks",
+        "wino87",
+        "kyle",
+        "demize",
+        "vasheeesh",
+        "imbones",
+        "lance",
+        "starladder"
+    ],
+    "check_interval": 60
+}
